@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "title": "Basic of Programming",
+      "details": "Learn the basics of programming with this introductory course. Covers fundamental concepts and coding exercises.",
+      "image": "https://i.ibb.co/5vmMt3z/Introduction-to-Programming-Languages.jpg",
+      "price": 3000,
+      "credit_hour": 3
+    },
+    {
+      "id": 2,
+      "title": "Web Development Fundamentals",
+      "details": "Explore the world of web development. Includes HTML, CSS, and JavaScript essentials.",
+      "image": "https://i.ibb.co/B3wwbtd/which-development-job-is-right-for-you.jpg",
+      "price": 6000,
+      "credit_hour": 4
+    },
+    {
+      "id": 3,
+      "title": "Data Science for Beginners",
+      "details": "An introduction to data science and analytics. Covers data visualization and basic statistical analysis.",
+      "image": "https://i.ibb.co/KxQHyL5/Data-Science-Fir-beginner.jpg",
+      "price": 5000,
+      "credit_hour": 3
+    },
+    {
+      "id": 4,
+      "title": "Digital Marketing Mastery",
+      "details": "Learn the art of digital marketing, including SEO, social media, and online advertising strategies.",
+      "image": "https://i.ibb.co/b7Ywd0w/Digital-marketing-concept-1024x683.jpg",
+      "price": 4500,
+      "credit_hour": 5
+    },
+    {
+      "id": 5,
+      "title": "Graphic Design Fundamentals",
+      "details": "Master the basics of graphic design, including Adobe Creative Suite tools and design principles.",
+      "image": "https://i.ibb.co/ccjSnys/https-cdn-evbuc.jpg",
+      "price": 5500,
+      "credit_hour": 4
+    },
+    {
+      "id": 6,
+      "title": "Introduction to Psychology",
+      "details": "Explore the fascinating world of psychology, covering key theories and concepts.",
+      "image": "https://i.ibb.co/GPNb1Nq/Introduction-to-Psychology.jpg",
+      "price": 3000,
+      "credit_hour": 3
+    },
+    {
+      "id": 7,
+      "title": "Business Management Essentials",
+      "details": "Gain a solid foundation in business management, including leadership and organizational skills.",
+      "image": "https://i.ibb.co/fY4NmRX/Business-Management-Essentials.jpg",
+      "price": 4000,
+      "credit_hour": 4
+    },
+    {
+      "id": 8,
+      "title": "Artificial Intelligence Essential",
+      "details": "An introduction to AI, machine learning, and their applications in various fields.",
+      "image": "https://i.ibb.co/mvTtLTN/Artificial-Intelligence-Fundamentals.jpg",
+      "price": 7000,
+      "credit_hour": 5
+    },
+    {
+      "id": 9,
+      "title": "Creative Writing Workshop",
+      "details": "Hone your creative writing skills through exercises, workshops, and feedback sessions.",
+      "image": "https://i.ibb.co/fN1rmhV/Creative-Writing-Workshop.jpg",
+      "price": 3500,
+      "credit_hour": 3
+    }
+  ]
+  
